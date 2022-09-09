@@ -1,0 +1,19 @@
+
+
+Service Provider
+
+View Online Course Data Set Details,
+Search & Predict Student Performance Details ,
+    View All Student Performance Prediction,  
+    View Students Assessments Grades,
+View Searched Ratio Details,
+View All Remote Users,
+    View Searched Student Performance Results,
+View Student Performance Results,
+    View Student Performance By Line Chart,
+
+Remote User
+
+Post Student data set,
+Search & Predict Student Performance Details,
+View Your Profile
